@@ -1,0 +1,30 @@
+{
+  "name": "com.kylehelmer.cinemotion2d",
+  "version": "1.1.0-beta",
+  "displayName": "CineMotion2D",
+  "description": "CineMotion2D is a versatile 2D camera tool for Unity, offering cinematic and gameplay camera behaviors.",
+  "unity": "2020.3",
+  "dependencies": {
+    "com.unity.render-pipelines.core": "10.3.0",
+    "com.unity.inputsystem": "1.0.2"
+  },
+  "keywords": [
+    "Unity",
+    "Camera",
+    "2D",
+    "Cinematic",
+    "Gameplay",
+    "Parallax"
+  ],
+  "author": {
+    "name": "Kyle Helmer",
+    "email": "kylelee529@gmail.com"
+  },
+  "license": "none",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/CineMotion2D.git"
+  },
+  "readme": "README.md",
+  "hideInEditor": false
+}

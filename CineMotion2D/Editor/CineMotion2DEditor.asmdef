@@ -1,0 +1,12 @@
+{
+	"name": "CineMotion2DEditor",
+	"references": [
+	  "UnityEditor",
+	  "CineMotion2D"
+	],
+	"includePlatforms": [
+	  "Editor"
+	],
+	"platforms": [],
+	"allowUnsafeCode": false
+  }

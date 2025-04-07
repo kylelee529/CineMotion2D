@@ -1,0 +1,13 @@
+{
+	"name": "CineMotion2D",
+	"references": [
+	  "UnityEngine"
+	],
+	"includePlatforms": [
+	  "Editor",
+	  "iOS",
+	  "Android"
+	],
+	"platforms": [],
+	"allowUnsafeCode": false
+  }
